@@ -1,0 +1,41 @@
+# Core Dependencies
+fastapi==0.104.0
+uvicorn[standard]==0.24.0
+sqlalchemy==2.0.23
+alembic==1.12.1
+psycopg2-binary==2.9.9
+
+# Background Jobs
+celery==5.3.4
+redis==5.0.1
+
+# AI/ML & Agent Framework
+langchain==0.1.0
+langchain-anthropic==0.1.1
+langchain-community==0.0.10
+anthropic==0.8.0
+
+# Data Collection & Processing
+playwright==1.40.0
+httpx==0.25.2
+beautifulsoup4==4.12.2
+spacy==3.7.2
+sentence-transformers==2.2.2
+pandas==2.1.4
+duckduckgo-search==8.1.1
+email-validator==2.1.0
+
+# Configuration & Validation
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+python-multipart==0.0.6
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
+# Code Quality
+black==23.11.0
+ruff==0.1.6
+mypy==1.7.1
