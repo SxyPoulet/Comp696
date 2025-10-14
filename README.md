@@ -2,6 +2,8 @@
 
 AI Agent-Driven System for Automated Sales Research
 
+## Generated using Claude Code by Anthropic
+
 ## Overview
 
 The Sales Intelligence Agent is a multi-agent system that automates the process of discovering, researching, and analyzing target companies for sales outreach. It leverages Claude AI and LangChain to orchestrate intelligent agents that gather data from multiple sources and generate actionable insights.
